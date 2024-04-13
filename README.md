@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @PsyChoDev
 - 👀 I’m interested in Js, Python, Html and CSS 
-- 🌱 I’m currently learning React.js,Python and Php
+- 🌱 I’m currently learning React.js, Python and Php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me psychodev@quebitml.com
 
